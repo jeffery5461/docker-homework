@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+title = "My New Hugo Site"
+theme = "hugo-tranquilpeak-theme"
+#languageCode = "en-us"
+languageCode = "zh-cn"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "zh"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "devcows"
+
+[languages]
+    [languages.zh]
+        languageName = "中文"
+
