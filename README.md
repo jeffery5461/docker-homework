@@ -30,17 +30,24 @@ cd website
 git clone git@github.com:jeffery5461/docker-homework.git
 ```
 
-3. 开启docker-machine后进入项目目录中的`/blog`文件夹
+3. 开启docker-machine并进入
+
+```bash
+docker-machine start <你自己的docker-machine名称>
+eval $(docker-machine env <你自己的docker-machine名称>)
+```
+
+4. 进入项目中的`/blog`文件夹
 
 ```bash
 cd docker-homework/blog
 ```
 
-4. build and run
+5. build and run
 
 ```bash
 sh build.sh
 sh run.sh
 ```
 
-5. 根据`bash`中`run.sh`后打印的提示，进行站点的访问
+6. 根据`bash`中`run.sh`后打印的提示，进行站点的访问
