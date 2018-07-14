@@ -16,7 +16,7 @@ The homework for the first week in hand company.
 
 ## 如何使用
 
-1.任意找个文件夹，右键`bash`进入创建仓库
+1. 任意找个文件夹，右键`bash`进入创建仓库
 
 ```bash
 mkdir website
@@ -24,24 +24,23 @@ mkdir website
 cd website
 ```
 
-2.下载项目
+2. 下载项目
 
 ```bash
 git clone git@github.com:jeffery5461/docker-homework.git
 ```
 
-3.开启docker-machine后进入项目目录中的/blog文件夹
+3. 开启docker-machine后进入项目目录中的`/blog`文件夹
 
 ```bash
-cd 你项目存放的目录/webstie/docker-homework/blog
+cd docker-homework/blog
 ```
 
-4.build and run
+4. build and run
 
 ```bash
 sh build.sh
-
 sh run.sh
 ```
 
-5.根据bash中run.sh后打印的提示，进行站点的访问
+5. 根据`bash`中`run.sh`后打印的提示，进行站点的访问

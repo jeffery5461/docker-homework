@@ -1,14 +1,213 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Hugo tranquilpeak theme</title>
+    <link>http://192.168.99.100:8090/tags/</link>
+    <description>Recent content in Tags on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Wed, 02 Oct 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://192.168.99.100:8090/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chinese</title>
+      <link>http://192.168.99.100:8090/tags/chinese/</link>
+      <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cover Image</title>
+      <link>http://192.168.99.100:8090/tags/cover-image/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/cover-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dailymotion</title>
+      <link>http://192.168.99.100:8090/tags/dailymotion/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/dailymotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disqus</title>
+      <link>http://192.168.99.100:8090/tags/disqus/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/disqus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github Theme</title>
+      <link>http://192.168.99.100:8090/tags/github-theme/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/github-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Analytics</title>
+      <link>http://192.168.99.100:8090/tags/google-analytics/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/google-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravatar</title>
+      <link>http://192.168.99.100:8090/tags/gravatar/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/gravatar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexo Theme</title>
+      <link>http://192.168.99.100:8090/tags/hexo-theme/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/hexo-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highlight Code</title>
+      <link>http://192.168.99.100:8090/tags/highlight-code/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/highlight-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Html Elements</title>
+      <link>http://192.168.99.100:8090/tags/html-elements/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/html-elements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Gallery</title>
+      <link>http://192.168.99.100:8090/tags/image-gallery/</link>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/image-gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Japanese</title>
+      <link>http://192.168.99.100:8090/tags/japanese/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/japanese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://192.168.99.100:8090/tags/markdown/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pagination</title>
+      <link>http://192.168.99.100:8090/tags/pagination/</link>
+      <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/pagination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responsive</title>
+      <link>http://192.168.99.100:8090/tags/responsive/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/responsive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>http://192.168.99.100:8090/tags/social/</link>
+      <pubDate>Wed, 17 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag Plugins</title>
+      <link>http://192.168.99.100:8090/tags/tag-plugins/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/tag-plugins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://192.168.99.100:8090/tags/tags/</link>
+      <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://192.168.99.100:8090/tags/test/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videos Integration</title>
+      <link>http://192.168.99.100:8090/tags/videos-integration/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/videos-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vimeo</title>
+      <link>http://192.168.99.100:8090/tags/vimeo/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/vimeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>http://192.168.99.100:8090/tags/youtube/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.99.100:8090/tags/youtube/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

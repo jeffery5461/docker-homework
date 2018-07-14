@@ -1,0 +1,3 @@
+baseURL = "http://DOCKER_MACHINE_IP:80"
+
+aURL = ${aURL}
