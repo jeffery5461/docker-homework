@@ -27,7 +27,7 @@ cd website
 2. 下载项目
 
 ```bash
-git clone git@github.com:jeffery5461/docker-homework.git
+git clone git@github.com:lawler61/docker-homework.git
 ```
 
 3. 开启docker-machine并进入
